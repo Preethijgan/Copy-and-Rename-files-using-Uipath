@@ -30,3 +30,19 @@ To design and execute an automation process in UiPath that copies files from a s
 
 4. Run the Workflow.
 UiPath will loop through each file, copy it to the destination folder, and rename it.
+
+<img width="1919" height="1013" alt="Screenshot 2025-10-04 195157" src="https://github.com/user-attachments/assets/af566aa2-a450-4194-9cb2-5a512ba6dd75" />
+<img width="1912" height="1023" alt="Screenshot 2025-10-04 195217" src="https://github.com/user-attachments/assets/c6155458-4c33-432e-a407-e84095b559e2" />
+
+# Output:
+
+## Source:
+<img width="1919" height="1079" alt="Screenshot 2025-10-04 195122" src="https://github.com/user-attachments/assets/5bc564c2-44fd-4129-b904-cca99e8a5ade" />
+
+## Destination:
+<img width="1919" height="1079" alt="Screenshot 2025-10-04 195130" src="https://github.com/user-attachments/assets/512d3a92-a91a-41eb-9a88-75691768556d" />
+
+# Result:
+All files from the Source Folder are successfully copied to the Destination Folder. Each copied file is renamed by appending the current timestamp.
+
+
